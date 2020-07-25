@@ -6,5 +6,5 @@ Chà chà, mình thì não ngắn lắm, chả biết gì đâu, chẳng qua là
 
 Tự nhận thấy mình phải cố gắng nhiều hơn để học hỏi và bắt kịp họ. À không, để trước tiên hiểu được những kí tự khó hiểu ở trên này có nghĩa gì.
 
-Xin hết! Mình đi học đây không chém gió nữa đâu...
+Thôi ình đi học đây không chém gió nữa đâu...
 ###### Tiểu Phương
