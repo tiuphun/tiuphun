@@ -1,6 +1,6 @@
 Hi there 🙌
 
-#### Can you help?
+### Can you help?
 
 I am thinking of something to do for my graduation bachelor thesis. I want it to be something of use, not just a sparkled up version of the projects from previous courses which are, for me, meant to be for training only.
 Ideally it would be something that uses tech to helps arts and cultures accessible to more people on Earth. This helps educate people about the arts, and also provides creatives something to reach their audiences. A win-win kind of thing.
