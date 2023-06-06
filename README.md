@@ -9,4 +9,4 @@ My inspiration is from [Experiments with Google](https://experiments.withgoogle.
 
 The problem is that I do not have a very good picture of what people really want to get out of these kind of things, or what is something they've been hoping that it existed.
 
-If you will, please drop a message of your idea to my email. Thank you so much ❤️
+If you will, please drop a message of an idea, a suggestion, or a reference that you think is helpful to my email. Thank you so much ❤️
