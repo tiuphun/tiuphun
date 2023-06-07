@@ -11,6 +11,6 @@ The problem is that I do not have a very good picture of what people really want
 
 If you will, please drop a message of an idea, a suggestion, or a reference that you think is helpful to my email. Thank you so much!
 
-With love ❤️
+With love 🖤
 
 Tieu
