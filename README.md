@@ -9,7 +9,7 @@
 <a href="https://instagram.com/tieucreates" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tieucreates" height="30" width="40" /></a>
 <a href="https://www.behance.net/tieuphuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tieuphuong" height="30" width="40" /></a>
 <a href="https://medium.com/@tieuphuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tieuphuong" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@tieuphuong." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tieuphuong." height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/UCPs86BK7W3OWBuy94Ujm5QQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tieuphuong." height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tiuphun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tiuphun" height="30" width="40" /></a>
 </p>
 
